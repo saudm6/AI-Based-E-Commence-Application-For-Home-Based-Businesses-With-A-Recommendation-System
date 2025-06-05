@@ -1,0 +1,128 @@
+name: ai_test
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.7.2
+  http: ^1.4.0
+  file_picker: ^10.1.1
+  intl: ^0.20.2
+  chat_bubbles: ^1.7.0
+  dart_openai: ^5.1.0
+  auto_size_text: ^3.0.0
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.4.4
+  google_fonts: ^6.2.1
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.2
+  cloud_firestore: ^5.6.6
+  firebase_storage: ^12.4.5
+  image_picker: ^1.1.2
+  uuid: ^4.3.3
+  cached_network_image: 3.4.1
+  geolocator: ^14.0.0
+  url_launcher: ^6.3.1
+  google_maps_flutter: ^2.12.1
+  carousel_slider: ^5.0.0
+  image_card: ^0.0.4
+  fl_chart: ^0.71.0
+# AIzaSyAKT-tji-fWBQG3qNA3ceVrkNnK8qdz4c0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^5.0.0
+
+
+flutter_native_splash:
+  color: "#007BFF"
+  color_dark: "007BFF"
+  image: assets/logos/HBB_logo.png
+  image_dark: assets/logos/HBB_logo.png
+
+  android_12:
+    image: assets/logos/HBB_logo.png
+    icon_background_color: "#007BFF"
+    image_dark: assets/logos/HBB_logo.png
+    icon_background_color_dark: "#007BFF"
+
+
+
+
+flutter:
+  assets:
+    - assets/logos/
+    - assets/fonts/
+    - assets/images/
+    - assets/ai/ai_chatbot_1.csv
+  fonts:
+    - family: "Poppins"
+      fonts:
+        - asset: assets/fonts/Poppins-Black.ttf
+    - family: "Montserrat"
+      fonts:
+        - asset: assets/fonts/Montserrat-VariableFont_wght.ttf
+  
+  
+  uses-material-design: true
+
+  
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

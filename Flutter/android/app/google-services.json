@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109982251877",
+    "project_id": "thesis-flutter-app",
+    "storage_bucket": "thesis-flutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109982251877:android:923a63662897724629bf8c",
+        "android_client_info": {
+          "package_name": "com.ai_test.ai_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDROTBSv_epI1uEb0rF3_sx4G7I5dy8Q-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

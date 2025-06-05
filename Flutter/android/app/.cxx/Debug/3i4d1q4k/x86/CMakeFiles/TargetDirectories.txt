@@ -1,0 +1,2 @@
+C:/Users/Saud/StudioProjects/ai_test_16/ai_test_14/ai_test/android/app/.cxx/Debug/3i4d1q4k/x86/CMakeFiles/edit_cache.dir
+C:/Users/Saud/StudioProjects/ai_test_16/ai_test_14/ai_test/android/app/.cxx/Debug/3i4d1q4k/x86/CMakeFiles/rebuild_cache.dir
